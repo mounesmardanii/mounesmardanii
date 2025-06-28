@@ -4,25 +4,23 @@
   A passionate developer focused on <b>Artificial Intelligence</b> and <b>Frontend Development</b>.  
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="45%" alt="developer gif"/>
-  <br>
-  <br>
-  <table>
-    <tr>
-      <td>
-        
+<table align="center">
+  <tr>
+    <td width="50%">
+      
 ### 🚀 About Me
 
 - 🔭 Exploring **AI** × **Web Development**
 - 🌱 Learning **React.js** & **Machine Learning**
-- 🧠 Love building smart UIs
+- 🧠 Love building smart UIs  
 - 📫 Reach me at: `mounesmardani@gmail.com`
 
-      </td>
-    </tr>
-  </table>
-</div>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="developer gif"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
