@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mounesmardanii/mounesmardanii/main/banner.png" alt="Profile banner" width="80%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="Coding Gif"/>
 </p>
 
 ---
