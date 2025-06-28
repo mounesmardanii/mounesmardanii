@@ -11,7 +11,7 @@
 - 🔭 I’m currently exploring the intersection of **AI** and **Web Technologies**
 - 🌱 Currently deepening my skills in **Machine Learning** and **React.js**
 - 🧠 Always curious about how to build smart, interactive UIs
-- 📫 Reach me at: mounesmardanii@gmail.com
+- 📫 Reach me at: mounesmardani@gmail.com
 
 ---
 
